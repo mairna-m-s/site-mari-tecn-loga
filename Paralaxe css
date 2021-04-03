@@ -1,0 +1,66 @@
+# site-mari-tecn-loga
+body{
+
+	margin: 0;
+	height: 100%;
+}
+
+.coluna1, .coluna2 {
+
+	height: 5000px;
+
+}
+
+.coluna1 {
+	
+}
+
+.coluna2 {
+	border-left: 1px solid #BDBDBD;
+}
+
+.quadrado {
+
+	background-color: #BB888B;
+	height:600px;
+	width: 500px;
+	position: absolute;
+	right: 200px;
+	top: 200px;
+
+}
+
+.imagem {
+
+	height:500px;
+	width: 950px;
+	position: absolute;
+	right: 55px;
+	top: 240px;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	background-image: url(imagem/mountains-6058896_1920.jpg);
+
+
+}
+
+
+.conteudo {
+
+	color: #777;
+	background-color: white;
+	text-align: center;
+	padding: 50px 80px;
+	position: relative;
+	top: 400px;
+	
+}
+
+h3{
+	color: #111;
+
+}
+
+p {
+	margin-bottom: 20px;
+}
